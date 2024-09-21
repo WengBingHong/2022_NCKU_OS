@@ -1,0 +1,77 @@
+Task kkk is ready.
+Task kkk is killed.
+Task aaa is ready.
+Task bbb is ready.
+Task ccc is ready.
+Task bbb is killed.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Task ggg is ready.
+Task hhh is ready.
+Task iii is ready.
+Task iii is killed.
+Task hhh is killed.
+Task aaa is killed.
+Task ccc is killed.
+
+Start simulation.
+Task fff is running.
+Task fff has terminated.
+Task ddd is running.
+Task ddd has terminated.
+Task eee is running.
+Task eee has terminated.
+Task ggg is running.
+Task ggg has terminated.
+Simulation over.
+
+Task zzz is ready.
+Task yyy is ready.
+Task xxx is ready.
+Task www is ready.
+Task vvv is ready.
+Task uuu is ready.
+
+Start simulation.
+Task uuu is running.
+Task uuu goes to sleep.
+Task vvv is running.
+Task vvv has terminated.
+Task www is running.
+Task www goes to sleep.
+Task xxx is running.
+Task xxx has terminated.
+Task yyy is running.
+Task yyy goes to sleep.
+Task zzz is running.
+Task zzz has terminated.
+CPU idle.
+Task uuu has terminated.
+Task www has terminated.
+Task yyy has terminated.
+Simulation over.
+
+Task mmm is ready.
+Task nnn is ready.
+Task ooo is ready.
+
+Start simulation.
+Task nnn is running.
+Task nnn gets resource 0.
+Task nnn gets resource 3.
+Task nnn releases resource 0.
+Task nnn releases resource 3.
+Task nnn has terminated.
+Task mmm is running.
+Task mmm gets resource 1.
+Task mmm gets resource 3.
+Task mmm gets resource 7.
+Task mmm goes to sleep.
+Task ooo is running.
+Task ooo has terminated.
+Task mmm releases resource 1.
+Task mmm releases resource 3.
+Task mmm releases resource 7.
+Task mmm has terminated.
+Simulation over.

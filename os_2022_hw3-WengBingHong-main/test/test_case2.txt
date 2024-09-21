@@ -1,0 +1,9 @@
+add aaa task4 2
+add ccc task6 5
+add ddd task7 4
+add eee task8 3
+add fff task9 1
+start > out
+rm out
+ps
+exit

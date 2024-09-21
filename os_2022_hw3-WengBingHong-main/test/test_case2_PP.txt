@@ -1,0 +1,73 @@
+Task aaa is ready.
+Task ccc is ready.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Start simulation.
+Task fff is running.
+Task fff gets resource 5.
+Task fff goes to sleep.
+Task aaa is running.
+Task aaa gets resource 0.
+Task aaa gets resource 1.
+Task aaa gets resource 2.
+Task aaa goes to sleep.
+Task eee is running.
+Task eee is waiting resource.
+Task ddd is running.
+Task ddd is waiting resource.
+Task ccc is running.
+Task ccc is waiting resource.
+CPU idle.
+Task aaa releases resource 0.
+Task aaa releases resource 1.
+Task aaa releases resource 2.
+Task aaa has terminated.
+CPU idle.
+Task eee gets resource 0.
+Task eee gets resource 4.
+Task eee gets resource 7.
+Task eee goes to sleep.
+Task ddd gets resource 1.
+Task ddd gets resource 3.
+Task ddd gets resource 6.
+Task ddd goes to sleep.
+Task ccc is waiting resource.
+CPU idle.
+Task fff is waiting resource.
+CPU idle.
+Task eee releases resource 0.
+Task eee releases resource 4.
+Task eee releases resource 7.
+Task eee has terminated.
+CPU idle.
+Task ccc gets resource 2.
+Task ccc gets resource 4.
+Task ccc goes to sleep.
+CPU idle.
+Task ddd releases resource 1.
+Task ddd releases resource 3.
+Task ddd releases resource 6.
+Task ddd has terminated.
+CPU idle.
+Task ccc releases resource 2.
+Task ccc releases resource 4.
+Task ccc has terminated.
+CPU idle.
+Task fff gets resource 4.
+Task fff gets resource 6.
+Task fff goes to sleep.
+CPU idle.
+Task fff releases resource 4.
+Task fff releases resource 5.
+Task fff releases resource 6.
+Task fff has terminated.
+Simulation over.
+ TID|     name|      state| running| waiting| turnaround| resources| priority
+-----------------------------------------------------------------------------
+   1|      aaa| TERMINATED|       1|      71|         72|      none|        2
+   2|      ccc| TERMINATED|       1|     177|        178|      none|        5
+   3|      ddd| TERMINATED|       1|     154|        155|      none|        4
+   4|      eee| TERMINATED|       1|     114|        115|      none|        3
+   5|      fff| TERMINATED|       1|     219|        220|      none|        1
+

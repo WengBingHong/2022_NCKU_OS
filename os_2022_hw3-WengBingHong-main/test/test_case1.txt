@@ -1,0 +1,30 @@
+add aaa task3 2
+add bbb task3 3
+add ccc task3 4
+add ddd task3 5
+add eee task3 6
+add fff task3 7
+add ggg task3 8
+add hhh task3 9
+add iii task3 10
+add jjj task3 12
+add kkk task3 13
+add lll task3 14
+add mmm task3 15
+add nnn task3 16
+add ooo task3 17
+add ppp task3 18
+add qqq task3 21
+add rrr task3 22
+add sss task1 23
+add ttt task1 25
+add uuu task2 26
+add vvv task4 1
+add www task5 11
+add xxx task6 19
+add yyy task7 20
+add zzz task8 24
+start > out
+rm out
+ps
+exit

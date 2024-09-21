@@ -1,0 +1,152 @@
+Task aaa is ready.
+Task bbb is ready.
+Task ccc is ready.
+Task ddd is ready.
+Task eee is ready.
+Task fff is ready.
+Task ggg is ready.
+Task hhh is ready.
+Task iii is ready.
+Task jjj is ready.
+Task kkk is ready.
+Task lll is ready.
+Task mmm is ready.
+Task nnn is ready.
+Task ooo is ready.
+Task ppp is ready.
+Task qqq is ready.
+Task rrr is ready.
+Task sss is ready.
+Task ttt is ready.
+Task uuu is ready.
+Task vvv is ready.
+Task www is ready.
+Task xxx is ready.
+Task yyy is ready.
+Task zzz is ready.
+Start simulation.
+Task aaa is running.
+Task bbb is running.
+Task ccc is running.
+Task ddd is running.
+Task eee is running.
+Task fff is running.
+Task ggg is running.
+Task hhh is running.
+Task iii is running.
+Task jjj is running.
+Task kkk is running.
+Task lll is running.
+Task mmm is running.
+Task nnn is running.
+Task ooo is running.
+Task ppp is running.
+Task qqq is running.
+Task rrr is running.
+Task sss is running.
+Task ttt is running.
+Task uuu is running.
+Task vvv is running.
+Task vvv gets resource 0.
+Task vvv gets resource 1.
+Task vvv gets resource 2.
+Task vvv goes to sleep.
+Task www is running.
+Task www is waiting resource.
+Task xxx is running.
+Task xxx is waiting resource.
+Task yyy is running.
+Task yyy is waiting resource.
+Task zzz is running.
+Task zzz is waiting resource.
+Task vvv releases resource 0.
+Task vvv releases resource 1.
+Task vvv releases resource 2.
+Task vvv has terminated.
+Task www gets resource 1.
+Task www gets resource 4.
+Task www goes to sleep.
+Task xxx is waiting resource.
+Task yyy is waiting resource.
+Task zzz is waiting resource.
+Task www gets resource 5.
+Task www goes to sleep.
+Task www releases resource 1.
+Task www releases resource 4.
+Task www releases resource 5.
+Task www has terminated.
+Task xxx gets resource 2.
+Task xxx gets resource 4.
+Task xxx goes to sleep.
+Task yyy gets resource 1.
+Task yyy gets resource 3.
+Task yyy gets resource 6.
+Task yyy goes to sleep.
+Task zzz is waiting resource.
+Task aaa has terminated.
+Task ccc has terminated.
+Task eee has terminated.
+Task ggg has terminated.
+Task hhh has terminated.
+Task iii has terminated.
+Task jjj has terminated.
+Task kkk has terminated.
+Task mmm has terminated.
+Task nnn has terminated.
+Task ooo has terminated.
+Task ppp has terminated.
+Task qqq has terminated.
+Task bbb has terminated.
+Task ddd has terminated.
+Task fff has terminated.
+Task lll has terminated.
+Task rrr has terminated.
+Task xxx releases resource 2.
+Task xxx releases resource 4.
+Task xxx has terminated.
+Task zzz gets resource 0.
+Task zzz gets resource 4.
+Task zzz gets resource 7.
+Task zzz goes to sleep.
+Task yyy releases resource 1.
+Task yyy releases resource 3.
+Task yyy releases resource 6.
+Task yyy has terminated.
+Task sss has terminated.
+Task ttt has terminated.
+Task uuu has terminated.
+CPU idle.
+Task zzz releases resource 0.
+Task zzz releases resource 4.
+Task zzz releases resource 7.
+Task zzz has terminated.
+Simulation over.
+ TID|     name|      state| running| waiting| turnaround| resources| priority
+-----------------------------------------------------------------------------
+   1|      aaa| TERMINATED|      25|     482|        507|      none|  ignored
+   2|      bbb| TERMINATED|      28|     534|        562|      none|  ignored
+   3|      ccc| TERMINATED|      26|     486|        512|      none|  ignored
+   4|      ddd| TERMINATED|      29|     535|        564|      none|  ignored
+   5|      eee| TERMINATED|      25|     491|        516|      none|  ignored
+   6|      fff| TERMINATED|      29|     537|        566|      none|  ignored
+   7|      ggg| TERMINATED|      27|     495|        522|      none|  ignored
+   8|      hhh| TERMINATED|      26|     498|        524|      none|  ignored
+   9|      iii| TERMINATED|      27|     500|        527|      none|  ignored
+  10|      jjj| TERMINATED|      26|     503|        529|      none|  ignored
+  11|      kkk| TERMINATED|      27|     505|        532|      none|  ignored
+  12|      lll| TERMINATED|      28|     539|        567|      none|  ignored
+  13|      mmm| TERMINATED|      27|     511|        538|      none|  ignored
+  14|      nnn| TERMINATED|      26|     514|        540|      none|  ignored
+  15|      ooo| TERMINATED|      27|     516|        543|      none|  ignored
+  16|      ppp| TERMINATED|      27|     519|        546|      none|  ignored
+  17|      qqq| TERMINATED|      27|     522|        549|      none|  ignored
+  18|      rrr| TERMINATED|      28|     540|        568|      none|  ignored
+  19|      sss| TERMINATED|      45|     573|        618|      none|  ignored
+  20|      ttt| TERMINATED|      44|     576|        620|      none|  ignored
+  21|      uuu| TERMINATED|      65|     578|        643|      none|  ignored
+  22|      vvv| TERMINATED|       1|     196|        197|      none|  ignored
+  23|      www| TERMINATED|       1|     444|        445|      none|  ignored
+  24|      xxx| TERMINATED|       1|     575|        576|      none|  ignored
+  25|      yyy| TERMINATED|       1|     593|        594|      none|  ignored
+  26|      zzz| TERMINATED|       1|     625|        626|      none|  ignored
+

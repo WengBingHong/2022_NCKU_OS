@@ -1,0 +1,34 @@
+add kkk task1 0
+del kkk
+add aaa task1 1
+add bbb task1 2
+add ccc test_exit 3
+del bbb
+add ddd test_exit 7
+add eee task1 8
+add fff test_exit 6
+add ggg task1 9
+add hhh task1 4
+add iii task1 5
+del iii
+del hhh
+del aaa
+del ccc
+echo
+start
+echo
+add zzz test_exit 6
+add yyy test_sleep 5
+add xxx test_exit 4
+add www test_sleep 3
+add vvv test_exit 2
+add uuu test_sleep 1
+echo
+start
+echo
+add mmm test_resource1 2
+add nnn test_resource2 1
+add ooo task1 3
+echo
+start
+exit
